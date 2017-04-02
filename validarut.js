@@ -1,7 +1,3 @@
-//
-// Validador de Rut
-// Descargado desde http://www.juque.cl/
-//
 function revisarDigito( dvr )
 {	
 	dv = dvr + ""	
